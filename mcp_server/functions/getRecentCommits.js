@@ -1,1 +1,0 @@
-// getRecentCommits 함수
